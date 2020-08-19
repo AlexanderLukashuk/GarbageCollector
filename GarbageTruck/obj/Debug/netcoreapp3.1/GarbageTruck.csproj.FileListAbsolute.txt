@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_18/homework/GarbageTruck/bin/Debug/netcoreapp3.1/GarbageTruck.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_18/homework/GarbageTruck/bin/Debug/netcoreapp3.1/GarbageTruck.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_18/homework/GarbageTruck/bin/Debug/netcoreapp3.1/GarbageTruck.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_18/homework/GarbageTruck/bin/Debug/netcoreapp3.1/GarbageTruck.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_18/homework/GarbageTruck/bin/Debug/netcoreapp3.1/GarbageTruck.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_18/homework/GarbageTruck/obj/Debug/netcoreapp3.1/GarbageTruck.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_18/homework/GarbageTruck/obj/Debug/netcoreapp3.1/GarbageTruck.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_18/homework/GarbageTruck/obj/Debug/netcoreapp3.1/GarbageTruck.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_18/homework/GarbageTruck/obj/Debug/netcoreapp3.1/GarbageTruck.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_18/homework/GarbageTruck/obj/Debug/netcoreapp3.1/GarbageTruck.pdb
